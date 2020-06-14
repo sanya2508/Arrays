@@ -25,20 +25,20 @@
 ### Bubble Sort using comparator
 
 ### <a href="https://github.com/sanya2508/Arrays/blob/master/generate%20subarrays.cpp">Generate subarray</a>
-    * Continuous element
-    * This involves three nested loops.
+  * Continuous element
+  * This involves three nested loops.
     
 
 ### Maximum subarray sum
-    * Find subarray which has the max sum.
-        * <a href="https://github.com/sanya2508/Arrays/blob/master/max%20subarray%20sum1.cpp">Method 1: Generate sum for all the subarrays, keep updating the maxsum.</a> O(n^3)
-        * Method 2: Using cummulative sum.
-            * csum[i] = csum[i-1] + a[i] (generated in linear time)
-            * for(i)
-               for(j>=i)
-               sum of array (i,j)= cs[j] - cs[j-i]
-            * It will take O(n^2) time.
-        * Method 3: Kadane's Algo! O(n)
+ * Find subarray which has the max sum.
+    * <a href="https://github.com/sanya2508/Arrays/blob/master/max%20subarray%20sum1.cpp">Method 1: Generate sum for all the subarrays, keep updating the maxsum.</a> O(n^3)
+    * Method 2: Using cummulative sum.
+      * csum[i] = csum[i-1] + a[i] (generated in linear time)
+      * for(i)
+        for(j>=i)
+        sum of array (i,j)= cs[j] - cs[j-i]
+      * It will take O(n^2) time.
+    * Method 3: Kadane's Algo! O(n)
 
 ### <a href="https://github.com/sanya2508/Arrays/blob/master/two%20pointer.cpp">Two pointer approach (Pair sum)</a>
 *Given a sorted array, find pair of elements that sum to k.*
