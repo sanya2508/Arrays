@@ -12,17 +12,17 @@
 ### <a href="https://github.com/sanya2508/Arrays/blob/master/Selection%20sort.cpp">Selection Sort</a>
 
 ### <a href="https://github.com/sanya2508/Arrays/blob/master/Bubble%20sort.cpp">Bubble Sort</a>
+  * #### <a href="https://github.com/sanya2508/Arrays/blob/master/Bubble%20sort%20using%20comparator.cpp">Bubble Sort using comparator</a>
 
 ### <a href="https://github.com/sanya2508/Arrays/blob/master/insertion%20sort.cpp">Insertion Sort</a>
 
-### Inbuilt sort
+### <a href="https://github.com/sanya2508/Arrays/blob/master/inbuilt%20sort.cpp">Inbuilt sort</a>
  * sort(a,a+n) [Quite efficient]
  * Comparator:  
       * Make a compare function.
       * sort(a,a+n,compare)
       
       
-### Bubble Sort using comparator
 
 ### <a href="https://github.com/sanya2508/Arrays/blob/master/generate%20subarrays.cpp">Generate subarray</a>
   * Continuous element
