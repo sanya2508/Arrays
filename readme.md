@@ -22,7 +22,32 @@
       * Make a compare function.
       * sort(a,a+n,compare)
       
+### <a href="https://github.com/sanya2508/Arrays/blob/master/merge%20sort.cpp">Merge Sort</a>
+ * Divide
+ * Sort
+ * Merge
+ * Divide and conquer algorithm
+
+### <a href="https://github.com/sanya2508/Arrays/blob/master/inversion%20count.cpp">Inversion Count</a>
       
+### Quick sort
+ * Divide and conquer algorithm.
+ * Choose an eleemnt as pivot element.
+ * Divide in two parts(elements which are less than or equal to pivot, elements that are greater than pivot).
+ * Pivot will come in the correct position.
+ * Recursively sort the two parts.
+
+### Counting sort
+ * When we have data which lies in a certain range.
+ 
+### Bucket sort
+
+### DNF sort
+
+### Wave sort
+
+
+
 
 ### <a href="https://github.com/sanya2508/Arrays/blob/master/generate%20subarrays.cpp">Generate subarray</a>
   * Continuous element
