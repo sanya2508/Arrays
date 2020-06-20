@@ -8,7 +8,12 @@
 
 ### <a href="https://github.com/sanya2508/Arrays/blob/master/binary%20search.cpp">Binary Search</a>
  * Efficient way to search in sorted array.
+ * Find first and last occurence.
+ * Binary search STL (binary_search(arr,arr+n,key)) in algorithm header file.
  
+ 
+
+
 ### <a href="https://github.com/sanya2508/Arrays/blob/master/Selection%20sort.cpp">Selection Sort</a>
 
 ### <a href="https://github.com/sanya2508/Arrays/blob/master/Bubble%20sort.cpp">Bubble Sort</a>
