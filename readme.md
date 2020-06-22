@@ -90,3 +90,7 @@
     * Take transpose.
 
 ### <a href="https://github.com/sanya2508/Arrays/blob/master/staircase.cpp">STAIRCASE SEARCH</a>
+
+### Sum of all submatrix from a  given matrix
+ * Approach 1:
+   * 
